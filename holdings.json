@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "asset": "TIPS",
+        "name": "Treasury Inflation-Protected Securities",
+        "asset_class": "ETF",
+        "units": 16.40,
+        "average_price": 121.90,
+        "weight": 0.2
+    },
+    {
+        "id": 2,
+        "asset": "ADM",
+        "name": "Archer-Daniels-Midland Company",
+        "asset_class": "Common Stock",
+        "units": 20.822,
+        "average_price": 96.05,
+        "weight": 0.2
+    },
+    {
+        "id": 3,
+        "asset": "BG",
+        "name": "Bunge Limited",
+        "asset_class": "Common Stock",
+        "units": 8.17,
+        "average_price": 122.33,
+        "weight": 0.1
+    },
+    {
+        "id": 4,
+        "asset": "MOS",
+        "name": "Mosaic Company",
+        "asset_class": "Common Stock",
+        "units": 14.56,
+        "average_price": 68.66,
+        "weight": 0.1
+    },
+    {
+        "id": 5,
+        "asset": "INDA",
+        "name": "Ishares MSCI India ETF",
+        "asset_class": "ETF",
+        "units": 22.37,
+        "average_price": 44.70,
+        "weight": 0.1
+    },
+    {
+        "id": 6,
+        "asset": "DVG",
+        "name": "Nasdaq US Dividend Achievers Select Index",
+        "asset_class": "ETF",
+        "units": 0.26,
+        "average_price": 3753.86,
+        "weight": 0.1
+    },
+    {
+        "id": 7,
+        "asset": "IAU",
+        "name": "iShares Gold Trust",
+        "asset_class": "ETF",
+        "units": 53.92,
+        "average_price": 37.09,
+        "weight": 0.2
+    }
+]
