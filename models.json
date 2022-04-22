@@ -1,0 +1,45 @@
+[
+                    {
+                        "id": 1,
+                        "asset": "TIPS",
+                        "name": "Treasury Inflation-Protected Securities",
+                        "weight":0.2
+                    },
+                    {
+                        "id": 2,
+                        "asset": "ADM",
+                        "name": "Archer-Daniels-Midland Company",
+                        "weight":0.2
+                    },
+                    {
+                        "id": 3,
+                        "asset": "BG",
+                        "name": "Bunge Limited",
+                        "weight":0.1
+                    },
+                    {
+                        "id": 4,
+                        "asset": "MOS",
+                        "name": "Mosaic Company",
+                        "weight":0.1
+                    }
+                    {
+                        "id": 5,
+                        "asset": "INDA",
+                        "name": "Ishares MSCI India ETF",
+                        "weight":0.1
+                    }
+                    {
+                        "id": 6,
+                        "asset": "DVG",
+                        "name": "Nasdaq US Dividend Achievers Select Index",
+                        "weight":0.1
+                    }
+                    {
+                        "id": 7,
+                        "asset": "IAU",
+                        "name":"iShares Gold Trust",
+                        "weight":0.2
+                    }
+                    
+                   ]
